@@ -1,0 +1,131 @@
+# Visual Studio
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+!packages/build/
+*.nuget.props
+*.nuget.targets
+
+# NPM Packages
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+*.tlog
+*.ide-wal
+*.ide-shm
+*.ide
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+.idea_modules/
+.idea_settings/
+*.iml
+out/
+
+# Generated files
+*.dll
+*.exe
+*.app
+*.dmg
+*.iso
+*.ipa
+*.msi
+*.pdb
+*.appx
+*.appxbundle
+*.pkg
+*.symbols.nupkg
+*.rsp
+*.manifest
+
+# Other files and folders
+publish/
+*.log
+*.cache
+*.class
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+[Mm]igrations/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
+
+# Azure
+.localhistory/
+
+# JetBrains Rider
+.idea/
+
+# ReSharper
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# MacOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+# Lock file
+*.lock
+
+# DotNet local tool configuration files
+*.config.json
+
+# Coverage reports
+*.coverage
+*.coveragexml
+coverage/
